@@ -29,7 +29,7 @@ At the end of the project, following topics are to be covered;
 
 ## Project Skeleton 
 
-|----Weather Condition App
+|----Parallax Website
 
         |----index.html  
         |----style.css   
